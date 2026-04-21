@@ -1,0 +1,5 @@
+carla
+tensorflow
+opencv-python
+numpy
+ultralytics
