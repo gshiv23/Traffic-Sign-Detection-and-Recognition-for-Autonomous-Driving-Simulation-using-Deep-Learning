@@ -1,4 +1,4 @@
-# 🚗 Traffic Sign Detection & Recognition using YOLO + CNN with CARLA Simulation
+# 🚗 Traffic Sign Detection & Recognition for Autonomous Driving simulation using Deep Learning
 
 ## 📌 Overview
 
